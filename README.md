@@ -1,64 +1,99 @@
-# Gemma 3 270M Fine-Tuning Projesi
+# 🔧 Fine-Tuning Gemma 3 (270M) with Kodla Data
 
-Bu proje, **Google Gemma 3 (270M parametreli)** modeli üzerinde **fine-tuning** yaparak özelleştirilmiş bir yapay zeka modeli geliştirmeyi amaçlamaktadır.  
-Model, telefonda bile çalışabilecek kadar küçük olup, ince ayar sayesinde belirli görevlerde uzmanlaşabilmektedir.
-
----
-
-## 📂 Proje Dosyaları
-
-- **`gemma3-fine-tuning.ipynb`**  
-  Jupyter Notebook dosyası. Fine-tuning sürecini adım adım gösterir:
-  - Veri setinin yüklenmesi ve dönüştürülmesi  
-  - Eğitim parametrelerinin ayarlanması  
-  - Modelin yeniden kaydedilmesi (GGUF formatında)  
-  - Test aşaması
-
-- **`kodla_data.json`**  
-  Kodla YouTube kanalındaki playlist verilerini içerir.  
-  Bu veri seti, kanal içeriklerini sınıflandırmak ve yapay zekaya içerik yönetimi konusunda ince ayar yapmak için kullanılır.  
-  Playlistler:  
-  1. Kodla Deney  
-  2. Kodla Keşfet  
-  3. Kodla Analiz  
-  4. Kodla Atölye  
-  5. Kodla Gündem  
+Bu proje, **Gemma 3 - 270M** küçük dil modeli üzerinde **Kodla kanalına özel görevleri yerine getirebilen** bir yapay zeka modelini fine-tuning (ince ayar) yöntemiyle eğitmek amacıyla hazırlanmıştır.
 
 ---
 
-## 🚀 Kullanım
+## 📌 Projenin Amacı
 
-1. Notebook’u aç:  
-   ```bash
-   jupyter notebook gemma3-fine-tuning.ipynb
-   ```
+YouTube’daki Kodla kanalında görev alan içerik yöneticilerinin görevlerini kolaylaştırmak için eğitilen bu model:
 
-2. Eğitim adımlarını sırayla çalıştır:  
-   - Veri yükleme  
-   - Dönüştürme  
-   - Fine-tuning  
-   - Modeli kaydetme  
-
-3. Eğitilen modeli test et ve kendi verinle çalıştır.  
+- Kanalda hangi videonun hangi oynatma listesine eklenmesi gerektiğini,
+- Mevcut oynatma listelerini,
+- Video başlığı ve açıklama yazımı gibi içerik önerilerini
+kendi başına cevaplayabilir hale gelir.
 
 ---
 
-## 🎯 Örnek Senaryolar
+## ⚙️ Kullanılan Model
 
-- **Şirket içi bilgi asistanı**: Tüm prosedür ve iş süreçlerini modele öğreterek çalışanların doğal dil ile bilgiye ulaşmasını sağla.  
-- **Tarihsel karakter modeli**: Örneğin Mimar Sinan verileriyle eğitilmiş, onun dönemine uygun cevaplar veren bir yapay zeka oluştur.  
-- **YouTube içerik yöneticisi**: `kodla_data.json` verisi ile kanal playlistlerini bilen ve doğru kategorilere yönlendirme yapan bir yapay zeka asistanı geliştir.
-
----
-
-## 📌 Notlar
-
-- Fine-tuning, modeli sıfırdan eğitmek yerine mevcut bilgi üzerine özel veriyle ince ayar yapar.  
-- Küçük modeller (Gemma 3 270M gibi) telefonlarda dahi çalışabilir.  
-- Eğitimden sonra model GGUF formatında kaydedilip Ollama veya benzeri ortamlarda kullanılabilir.
+- **Model:** `gemma-3b` base modeli (270M parametreli sürüm)
+- **Kütüphane:** [Unsloth](https://github.com/unslothai/unsloth) (hızlı fine-tuning için)
+- **Format:** GGUF (`F16` quantized)
 
 ---
 
-## 📜 Lisans
+## 📂 Eğitim Verisi
 
-Bu proje eğitim ve araştırma amaçlı hazırlanmıştır.
+Veriler `kodla_data.json` dosyasındadır ve `conversations` formatında yapılandırılmıştır:
+
+```json
+{
+  "conversations": [
+    { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+    { "role": "user", "content": "Kodla kanalında kaç tane playlist bulunuyor?" },
+    { "role": "assistant", "content": "Kodla kanalında 5 playlist var: ..." }
+  ]
+}
+```
+
+Veriler kontrollü dil ve tekil görevli sorularla hazırlanmıştır. Toplam 20+ farklı senaryo yer almaktadır.
+
+---
+
+## 🏋️ Eğitim Süreci
+
+1. Ortam Google Colab üzerinde T4 GPU ile çalıştırılır.
+2. Model `unsloth` kütüphanesiyle yüklenir (`2048` bağlam uzunluğu ile).
+3. Veriler tokenize edilip `SFTTrainer` ile eğitilir.
+4. Eğitim 2-3 epoch arası yapılır, kayıp (`loss`) değerleri izlenir.
+5. Eğitim sonrası model `.gguf` formatında dışa aktarılır.
+
+---
+
+## 🧠 Modelfile
+
+Modelin inference (çıktı üretimi) için kullanımı aşağıdaki `Modelfile` ile yapılır:
+
+```
+FROM ./model.F16.gguf
+
+PARAMETER temperature 0.5
+PARAMETER top_p 0.8
+PARAMETER top_k 64
+PARAMETER num_ctx 2048
+PARAMETER stop "<end_of_turn>"
+```
+
+---
+
+## 💡 Örnek Kullanım
+
+Model şu tarz sorulara otomatik ve tutarlı yanıtlar verebilir:
+
+- “Kodla kanalında kaç tane oynatma listesi var?”
+- “Yeni teknoloji hakkında video çektim, hangi listeye koymalıyım?”
+- “Thumbnail’de hangi renkler tercih edilmeli?”
+
+---
+
+## 📦 Çıktı
+
+Eğitilen model:
+- `model.F16.gguf` adıyla kaydedildi.
+- Mobil cihazlarda dahi kullanılabilecek kadar küçüktür.
+- Tokenizer bilgileriyle birlikte paketlendi.
+
+---
+
+## 📎 Notlar
+
+- Bu proje eğitim amaçlıdır.
+- Model küçük olduğundan karmaşık görevlerde değil, spesifik görevlerde (Kodla içeriği gibi) başarılı çalışır.
+- Veri seti güncellendikçe model yeniden eğitilebilir.
+
+---
+
+## 🧠 Teşekkürler
+
+Modelin hızlı fine-tuning’i için [Unsloth](https://github.com/unslothai/unsloth) kütüphanesi kullanılmıştır.
