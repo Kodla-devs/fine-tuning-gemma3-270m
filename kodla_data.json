@@ -1,0 +1,1846 @@
+[
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla kanalında kaç tane playlist bulunuyor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalında 5 playlist var: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kanalda mevcut playlistleri sayabilir misin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalındaki içerikler 5 ana playlist altında toplanıyor: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla’nın tüm oynatma listeleri hangileri?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalında toplam 5 playlist mevcut:\n1. Kodla Deney\n2. Kodla Keşfet\n3. Kodla Analiz\n4. Kodla Atölye\n5. Kodla Gündem"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kanalda hangi oynatma listeleri yer alıyor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalı içerikleri 5 farklı kategoriye ayrılmıştır. Bunlar: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla’da kaç farklı kategori ya da playlist var?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bizim kanalda 5 playlist var. Bunlar: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla kanalındaki 5 playlistin adını verir misin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalında 5 playlist var: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kanalda içerikler hangi oynatma listelerine ayrılıyor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalındaki içerikler 5 ana playlist altında toplanıyor: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla kanalındaki tüm seriler nelerden oluşuyor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalında toplam 5 playlist mevcut:\n1. Kodla Deney\n2. Kodla Keşfet\n3. Kodla Analiz\n4. Kodla Atölye\n5. Kodla Gündem"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla’da hangi listeler var?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalı içerikleri 5 farklı kategoriye ayrılmıştır. Bunlar: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kanalda oynatma listelerinin isimlerini öğrenebilir miyim?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bizim kanalda 5 playlist var. Bunlar: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla kanalında kaç tane seri var, isimleri neler?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalında 5 playlist var: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla’nın içerik listelerini detaylandırır mısın?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalındaki içerikler 5 ana playlist altında toplanıyor: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kanalda içerikler hangi başlıklar altında toplanıyor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalında toplam 5 playlist mevcut:\n1. Kodla Deney\n2. Kodla Keşfet\n3. Kodla Analiz\n4. Kodla Atölye\n5. Kodla Gündem"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla’da hangi ana listeler var?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalı içerikleri 5 farklı kategoriye ayrılmıştır. Bunlar: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kanalda toplam kaç farklı playlist bulunuyor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bizim kanalda 5 playlist var. Bunlar: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla’nın oynatma listeleri kaç tane, isimleri neler?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalında 5 playlist var: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kanalda hangi kategoriler var, bana sıralar mısın?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalındaki içerikler 5 ana playlist altında toplanıyor: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla kanalındaki oynatma listeleri nelerden oluşuyor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalında toplam 5 playlist mevcut:\n1. Kodla Deney\n2. Kodla Keşfet\n3. Kodla Analiz\n4. Kodla Atölye\n5. Kodla Gündem"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "role": "system",
+        "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın."
+      },
+      {
+        "role": "user",
+        "content": "Kodla kanalının tüm playlistlerini öğrenebilir miyim?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kodla kanalı içerikleri 5 farklı kategoriye ayrılmıştır. Bunlar: Kodla Deney, Kodla Keşfet, Kodla Analiz, Kodla Atölye ve Kodla Gündem."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Çektiğim videoyu hangi oynatma listesine koymam gerektiğini nasıl anlarım?" },
+      { "role": "assistant", "content": "Videonun türüne bak: deneysel → Kodla Deney, yeni teknoloji → Kodla Keşfet, makale yorumu → Kodla Analiz, proje geliştirme → Kodla Atölye, gündem → Kodla Gündem." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoyu yüklerken hangi kategoriye ekleyeceğimi nasıl seçiyorum?" },
+      { "role": "assistant", "content": "Playlist seçimi içerik türüne göre yapılır. Deneysel içerikler Kodla Deney’e, yeni teknoloji incelemeleri Kodla Keşfet’e, makale değerlendirmeleri Kodla Analiz’e, projeler Kodla Atölye’ye, haftalık gündem ise Kodla Gündem’e eklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yeni teknoloji hakkında video hazırladım, hangi listeye koymam gerekiyor?" },
+      { "role": "assistant", "content": "Yeni teknoloji içerikleri 'Kodla Keşfet' listesine eklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Eğitim içeriği deneme videosunu hangi playlist’e atmalıyım?" },
+      { "role": "assistant", "content": "Deneysel içerikler Kodla Deney playlist’inde toplanır. O nedenle eğitim denemeleri oraya eklenmelidir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Bir makale incelemesi yaptım, bunu hangi listede paylaşmalıyım?" },
+      { "role": "assistant", "content": "Makale inceleme ve yorumları için özel liste 'Kodla Analiz'dir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Proje geliştirme videosunu hangi oynatma listesine eklemeliyim?" },
+      { "role": "assistant", "content": "Projeler Kodla Atölye playlist’ine eklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Haftalık gündem videosu çektiysem, bunu nereye yükleyeceğim?" },
+      { "role": "assistant", "content": "Haftalık gündem içerikleri Kodla Gündem listesine eklenir. Aynı içerik ayrıca podcast olarak Spotify’da da paylaşılır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Her video için doğru playlist’i nasıl belirliyoruz?" },
+      { "role": "assistant", "content": "Kural basit: Deney → Deney, Teknoloji → Keşfet, Makale → Analiz, Proje → Atölye, Gündem → Gündem." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Playlist seçimi için içerikte nelere bakmam lazım?" },
+      { "role": "assistant", "content": "İçeriğin türüne bakılır: deneysel çalışma, yeni teknoloji tanıtımı, makale analizi, proje geliştirme veya haftalık gündem. Buna göre ilgili listeye eklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yanlış listeye video eklememek için hangi kriterlere dikkat etmeliyim?" },
+      { "role": "assistant", "content": "Videoyu hangi amaçla çektiysen, playlist seçimini ona göre yapmalısın. Deneyler Deney’e, keşif içerikleri Keşfet’e, makale yorumları Analiz’e, projeler Atölye’ye, gündem Gündem’e gider." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Deneysel videoları hangi listeye koyuyorduk?" },
+      { "role": "assistant", "content": "Deneysel içerikler 'Kodla Deney' playlist’ine eklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yeni çıkan teknolojileri incelediğimiz içerikler hangi kategoride oluyor?" },
+      { "role": "assistant", "content": "Yeni teknoloji inceleme videoları Kodla Keşfet kategorisine eklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Makale yorumları için ayrı bir playlist var mı?" },
+      { "role": "assistant", "content": "Evet, makale yorumları ve analizleri 'Kodla Analiz' playlist’inde toplanır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Sıfırdan proje geliştirme serilerini nereye ekliyoruz?" },
+      { "role": "assistant", "content": "Proje geliştirme videoları Kodla Atölye playlist’inde yayınlanır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Gündem konuşmalarını hangi listede topluyoruz?" },
+      { "role": "assistant", "content": "Gündem konuşmaları Kodla Gündem playlist’inde yer alır. Ayrıca podcast olarak Spotify’da da paylaşılır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videonun formatına göre doğru listeyi nasıl seçebilirim?" },
+      { "role": "assistant", "content": "Format türüne göre seçim yapılır. Deneyler Deney’e, teknoloji keşifleri Keşfet’e, makale incelemeleri Analiz’e, projeler Atölye’ye, gündem ise Gündem’e eklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Playlist atama süreci için adım adım bir rehber var mı?" },
+      { "role": "assistant", "content": "Evet, rehber şöyledir:\n1. Deney → Kodla Deney\n2. Yeni teknoloji → Kodla Keşfet\n3. Makale yorumu → Kodla Analiz\n4. Proje geliştirme → Kodla Atölye\n5. Haftalık gündem → Kodla Gündem" }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "İçerik türüne göre liste eşleştirmesini tekrar hatırlatır mısın?" },
+      { "role": "assistant", "content": "Deneysel içerikler Kodla Deney’de, yeni teknoloji tanıtımları Kodla Keşfet’te, makale yorumları Kodla Analiz’de, projeler Kodla Atölye’de, gündem ise Kodla Gündem’de toplanır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yeni bir çalışan olarak video türlerine göre liste seçimini nasıl öğrenebilirim?" },
+      { "role": "assistant", "content": "Yeni çalışanlar için basit kural: Deney → Deney, Keşif → Keşfet, Makale → Analiz, Proje → Atölye, Gündem → Gündem. Bu kurala göre kolayca playlist seçimi yapılabilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalda hangi video tipleri hangi playlist’e gidiyor, özetleyebilir misin?" },
+      { "role": "assistant", "content": "Kodla kanalında video türleri şu şekilde listelere ayrılır: Deney → Kodla Deney, Yeni teknoloji → Kodla Keşfet, Makale yorumu → Kodla Analiz, Proje geliştirme → Kodla Atölye, Gündem → Kodla Gündem." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla Gündem videoyla podcast arasında temel fark nedir?" },
+      { "role": "assistant", "content": "Kodla Gündem YouTube’da video olarak yayınlanır; aynı içeriğin ses versiyonu Spotify’da podcast olarak paylaşılır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Gündem içerikleri YouTube ve Spotify’da nasıl farklılaşıyor?" },
+      { "role": "assistant", "content": "YouTube’da görüntülü format (b-roll, ekran paylaşımları, grafikler) kullanılır. Aynı bölüm, görsel öğeler çıkarılarak ses formatında Spotify’a podcast olarak yüklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video ile podcast versiyonu aynı şey mi?" },
+      { "role": "assistant", "content": "İçerik başlıkları aynıdır; fark ortamdır: YouTube → video, Spotify → ses kaydı (podcast)." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla Gündem’i videoda ve podcastte nasıl yayımlıyoruz?" },
+      { "role": "assistant", "content": "Yayın akışı şöyledir:\n1) YouTube: Görüntülü versiyon.\n2) Spotify: Aynı bölümün ses dosyası (podcast).\n3) Açıklamalar: YouTube’da detaylı timestamp, podcastte özet show notes." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Gündem videoları podcastten hangi yönleriyle ayrılıyor?" },
+      { "role": "assistant", "content": "Video sürümü görsel desteklidir (grafik/ekran), podcast sürümü sadece sestir ve hareket halindeki dinleyiciler için optimize edilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube’daki Kodla Gündem ile Spotify’daki sürüm birebir aynı mı?" },
+      { "role": "assistant", "content": "İçerik temelde aynıdır; YouTube’da video olarak, Spotify’da ise yalnızca ses (podcast) olarak yayımlanır. Görsel ekler podcastte yer almaz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Gündem içeriğini video mu, podcast mi yüklemeliyim?" },
+      { "role": "assistant", "content": "Önce YouTube’a video olarak yükle, ardından aynı içeriğin sesini dışa aktarıp Spotify’a podcast olarak paylaş." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla Gündem’in video ve podcast dağıtımı nasıl işliyor?" },
+      { "role": "assistant", "content": "Dağıtım politikası: YouTube → video; Spotify → sesli podcast. İçerik aynıdır, yalnızca format ve platform farklıdır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast sürümünde videodaki görseller ne oluyor?" },
+      { "role": "assistant", "content": "Podcastte görseller yer almaz; önemli noktalar show notes’a kısa madde başlarıyla eklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube videosunu podcast’e dönüştürürken ne değiştiriyoruz?" },
+      { "role": "assistant", "content": "Görsel referansları sadeleştirir, gereksiz boşlukları keser, sesi normalize ederiz. Sonuç ses odaklı bir podcast olur ve Spotify’a yüklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla Gündem’in video ve podcast versiyonlarını nasıl konumlandırıyoruz?" },
+      { "role": "assistant", "content": "Video: izlemeye uygun ayrıntılı görsel anlatım (YouTube). Podcast: dinlemeye uygun sade ses akışı (Spotify). Konular aynı, format farklıdır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Gündem videosunun Spotify’da karşılığı nedir?" },
+      { "role": "assistant", "content": "Aynı bölümün ses dosyasıdır; Spotify’da podcast olarak yer alır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video ve podcast akışlarında açıklama kısmı aynı mı?" },
+      { "role": "assistant", "content": "YouTube’da ayrıntılı timestamp ve linkler bulunur; podcast açıklamasında (show notes) daha kısa bir özet ve temel bağlantılar yer alır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla Gündem’i dinlemek isteyen biri için hangisini öneriyoruz?" },
+      { "role": "assistant", "content": "Sadece dinlemek istiyorsa Spotify’daki podcast; görsel destek de istiyorsa YouTube videosu önerilir. İçerik aynı, tüketim biçimi farklıdır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast ile video arasında süre farkı olur mu?" },
+      { "role": "assistant", "content": "Genelde içerik süresi benzerdir; podcastte gereksiz görsel beklemeler kesildiği için birkaç dakika daha kısa olabilir. Temel konu akışı değişmez." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla Gündem’i önce video mu sonra podcast mi çıkarıyoruz?" },
+      { "role": "assistant", "content": "Evet. Önce YouTube’da video yayınlanır; ardından aynı içerik ses dosyasına çevrilip Spotify’a podcast olarak yüklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast hazırlarken videodaki görsel referansları nasıl ele alıyoruz?" },
+      { "role": "assistant", "content": "Görsel referansları sözlü olarak özetler, gerekirse show notes’a kaynak linkleri ekleriz. Böylece ses formatında da anlaşılır olur." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Gündem içeriği için iki platformda da aynı başlığı mı kullanıyoruz?" },
+      { "role": "assistant", "content": "Başlık ana hatlarıyla aynıdır; platformun karakter sınırına göre küçük uyarlamalar yapılabilir. Esas fark format: YouTube video, Spotify podcast." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video sürümündeki timestamp’leri podcastte nasıl yansıtıyoruz?" },
+      { "role": "assistant", "content": "Podcastte dakika başlıklarını show notes’ta madde madde özetleriz; interaktif timestamp yerine açıklama metni kullanırız." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısaca: Kodla Gündem video vs podcast farkı?" },
+      { "role": "assistant", "content": "Kısaca: YouTube = video, Spotify = ses (podcast). İçerik aynı; format ve sunum farklıdır." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video başlığını nasıl yazmalıyım?" },
+      { "role": "assistant", "content": "Başlık kısa, net ve merak uyandırıcı olmalı. Örneğin: 'Yapay Zekâ ile Kodlama Deneyi' veya 'Bu Hafta Yazılım Dünyasında'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Bir videoya etkili başlık atarken hangi kurallara uymalıyım?" },
+      { "role": "assistant", "content": "Başlık 6–8 kelimeyi geçmemeli, net olmalı ve konuyu hemen anlatmalı. Örneğin: 'Yeni Framework ile İlk Deneyim'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlık seçerken dikkat etmem gereken şeyler neler?" },
+      { "role": "assistant", "content": "Dikkat edilmesi gerekenler:\n1) Kısa tut (en fazla 60 karakter).\n2) Konuyu açık belirt.\n3) Merak uyandır ama clickbait yapma.\n4) Örnek: 'Python’da Yapay Zekâ Denemesi'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video başlığı yazarken nelere dikkat ediyoruz?" },
+      { "role": "assistant", "content": "Başlık hem algoritma dostu hem de izleyiciyi çekecek şekilde olmalı. Yani anahtar kelime içermeli, kısa olmalı ve izleyiciye doğrudan ne göreceğini söylemeli." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "İzleyici için cazip başlığı nasıl bulabilirim?" },
+      { "role": "assistant", "content": "İzleyiciyi çeken başlık genelde soru veya güçlü bir ifade içerir. Örneğin: 'Yapay Zekâ Kod Yazabilir mi?' gibi." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlığı uzun mu yazmalıyım kısa mı?" },
+      { "role": "assistant", "content": "Kısa başlık her zaman daha etkili. Ortalama 5–8 kelime yeterli olur. Mesela: 'Yeni Teknolojiyle 10 Dakikada Proje'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube için başlık formatı nasıl olmalı?" },
+      { "role": "assistant", "content": "YouTube başlığı SEO uyumlu, anahtar kelime barındıran ve ilgi çekici olmalı. Örnek: 'Yapay Zekâ ile Kodlama – İlk Deneyim'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlık önerilerini nasıl üretebilirim?" },
+      { "role": "assistant", "content": "Videonun temasını belirle, 2–3 anahtar kelime çıkar ve bunları kısa, etkili bir cümleye yerleştir. Örneğin: 'Python ile Yapay Zekâ Deneyi'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlık yazarken izleyici psikolojisini nasıl kullanmalıyım?" },
+      { "role": "assistant", "content": "Merak uyandır, sorun çözmeyi vurgula ve basit bir dil kullan. Örn: '3 Adımda Proje Geliştirme' gibi." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast ile videonun başlık mantığı aynı mı olmalı?" },
+      { "role": "assistant", "content": "Genelde evet ama küçük farklarla. Video başlıkları daha görsel ve dikkat çekici olur, podcast başlıkları ise daha açıklayıcı olabilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlık yazmak için örnek şablon var mı?" },
+      { "role": "assistant", "content": "Evet, şablonlardan biri: 'X ile Y Nasıl Yapılır?'. Örn: 'Python ile Basit Oyun Nasıl Yapılır?'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlıkta emoji kullanmalı mıyım?" },
+      { "role": "assistant", "content": "YouTube başlığında emoji kullanmak dikkat çekebilir ama aşırıya kaçmamak lazım. Maksimum 1–2 emoji yeterli olur." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlığı yazarken SEO için ne yapabilirim?" },
+      { "role": "assistant", "content": "Anahtar kelimeleri başlığın başına koy. Örn: 'Yapay Zekâ ile Kodlama – Deneme Projesi'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalımızdaki başlıklar neden genelde kısa?" },
+      { "role": "assistant", "content": "Çünkü kısa başlık hem mobil ekranda tam görünür hem de izleyicinin dikkatini daha hızlı çeker." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlığı yazarken izleyiciye doğrudan hitap etmeli miyim?" },
+      { "role": "assistant", "content": "Evet, özellikle 'Sen de Öğrenebilirsin', 'Hemen Deneyebilirsin' gibi ifadeler izleyiciyi daha çok çeker." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlığı yazarken dikkat çekici hale getirmek için ipucu var mı?" },
+      { "role": "assistant", "content": "Sorular, sayılar veya güçlü sıfatlar kullanabilirsin. Örn: '5 Dakikada Yapay Zekâ Deneyi'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlığı belirlerken uzun vadede kanal için neye dikkat etmeliyiz?" },
+      { "role": "assistant", "content": "Tüm başlıkların uyumlu bir tarzda olması gerekir. Böylece kanal kimliği oluşur ve izleyici bizi başlıktan tanır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video başlığını yazarken konuya mı yoksa kitleye mi odaklanmalıyım?" },
+      { "role": "assistant", "content": "Her ikisine de. Konuyu net belirt, ama kitleye de 'bu senin işine yarar' mesajını ver." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Başlıkları test ederek mi seçiyoruz?" },
+      { "role": "assistant", "content": "Evet, bazen aynı videoya farklı başlıklar deneriz. Hangisi daha çok tıklanıyorsa onu sabitleriz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video başlıklarını yazmak için genel bir önerin var mı?" },
+      { "role": "assistant", "content": "Genel önerim: Kısa, net, merak uyandırıcı ve anahtar kelime içeren başlıklar yaz. Mesela: 'Yapay Zekâ ile Kodlama Deneyi'." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail hazırlarken hangi font ve renkleri kullanmalıyım?" },
+      { "role": "assistant", "content": "Montserrat Bold font kullan. Arka plan siyah veya koyu gri, yazılar beyaz, vurgu renkleri kırmızı olmalı." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanal için thumbnail tasarlarken font tercihi ne olmalı?" },
+      { "role": "assistant", "content": "Kanalda tutarlı görünüm için genellikle Montserrat Bold kullanıyoruz. Bu font okunaklı ve modern bir görünüm sağlar." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail yazılarında hangi renkleri tercih etmeliyim?" },
+      { "role": "assistant", "content": "Yazılar beyaz olmalı, arka plan siyah veya koyu gri. Vurgular için kırmızı tonları ekleyebilirsin." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Küçük resimler için görsel stil rehberimiz nedir?" },
+      { "role": "assistant", "content": "Stil rehberimiz: Montserrat Bold font, koyu arka plan (siyah/gri), beyaz yazı, vurgu için kırmızı kullanımı." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube thumbnail tasarımında kullandığımız renk paleti hangisi?" },
+      { "role": "assistant", "content": "Ana renkler: siyah ve koyu gri arka plan, beyaz yazı. Vurgu için kırmızı kullanılır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail tasarlarken yazı tipini nasıl seçmeliyim?" },
+      { "role": "assistant", "content": "Her zaman okunabilirliği yüksek ve kalın bir yazı tipi seçmelisin. Biz Montserrat Bold kullanıyoruz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Küçük resimlerde yazı ve arka plan kontrastı nasıl olmalı?" },
+      { "role": "assistant", "content": "Arka plan koyu (siyah veya gri) olmalı, yazılar beyaz. Böylece yüksek kontrast sağlanır. Önemli kelimelerde kırmızı vurgu kullanabilirsin." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail için standart fontumuz var mı?" },
+      { "role": "assistant", "content": "Evet, standart font Montserrat Bold. Tüm küçük resimlerde bu font kullanılıyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail’de dikkat çekici görünüm için hangi renkleri kullanmalıyım?" },
+      { "role": "assistant", "content": "Temel renk beyaz (yazılar), koyu zemin (siyah veya gri). Dikkat çekmek için kırmızı vurgular eklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Küçük resimlerde tipografi için kuralımız ne?" },
+      { "role": "assistant", "content": "Tipografi kuralı: Montserrat Bold font, büyük puntolar ve koyu arka plan üzerine beyaz yazı." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail'e neler yazmalıyım?" },
+      { "role": "assistant", "content": "3-4 kelimelik kısa ve vurucu metin yaz. Başlıktan farklı ama destekleyici olsun. Örn: 'Yeni AI Deneyi' veya 'Büyük Güncelleme'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Küçük resimlerde hangi metinleri kullanmalıyım?" },
+      { "role": "assistant", "content": "Thumbnail metni kısa, net ve akılda kalıcı olmalı. Başlığa ek vurgu sağlar. Mesela: 'Şaşırtan Teknoloji'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail yazısı uzun mu kısa mı olmalı?" },
+      { "role": "assistant", "content": "Her zaman kısa olmalı. Ortalama 2–4 kelime. İzleyiciye tek bakışta mesajı verir. Örn: 'Yeni Araç Testi'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail için metin yazarken neye dikkat etmeliyim?" },
+      { "role": "assistant", "content": "Metin ilgi çekici, merak uyandırıcı olmalı. Başlığı tekrar etmeyip, tamamlayıcı nitelikte olmalı. Örn: 'Şimdi Deniyoruz'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Küçük resimde yazı şart mı?" },
+      { "role": "assistant", "content": "Evet, yazı şart. Ama uzun cümleler yerine sadece vurucu ifadeler kullanılmalı. Örn: 'Yeni Güncelleme'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail'deki metin başlıkla aynı olabilir mi?" },
+      { "role": "assistant", "content": "Aynı olmamalı. Başlığa destek olan, daha kısa ve güçlü bir ifade olmalı. Başlık 'Yapay Zekâ ile Kodlama' ise thumbnail 'AI Deneyi' olabilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail'de ne tür ifadeler kullanmalıyım?" },
+      { "role": "assistant", "content": "Kısa, etkili, aksiyon odaklı ifadeler: 'Şimdi Başlıyoruz', 'Çok Büyük Yenilik', 'Hemen Deneyin' gibi." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Küçük resimlerde yazıyı nasıl seçiyoruz?" },
+      { "role": "assistant", "content": "Videonun en güçlü mesajını 2–3 kelimeye indiriyoruz. Böylece thumbnail hızlıca dikkat çeker." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail için örnek yazılar verebilir misin?" },
+      { "role": "assistant", "content": "Tabii: 'AI Testi', 'Büyük Sürpriz', 'Yeni Teknoloji', 'Proje Başladı'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Thumbnail'de yazı yazmazsak sorun olur mu?" },
+      { "role": "assistant", "content": "Sorun olmaz ama etkileşimi düşürür. Yazı, görselin mesajını güçlendirir. O yüzden 2–3 kelimelik vurucu metin eklemek en iyisi." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video açıklamasını nasıl hazırlamalıyım?" },
+      { "role": "assistant", "content": "Açıklamanın ilk satırına kısa özet yaz. Sonrasında sosyal medya linklerini ekle. Uzun videolarda mutlaka timestamplar kullan." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube açıklama kısmına neler eklemem gerekiyor?" },
+      { "role": "assistant", "content": "Kısa özet, izleyiciye yönlendirme linkleri (Instagram, TikTok, Spotify vb.) ve videonun bölümlerini gösteren timestamp’ler eklenmeli." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Açıklama kısmında timestamp kullanmalı mıyım?" },
+      { "role": "assistant", "content": "Evet, özellikle 10 dakikadan uzun videolarda timestamp şart. İzleyici istediği bölüme kolayca geçebilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video altına yazılacak açıklamayı nasıl düzenlemeliyim?" },
+      { "role": "assistant", "content": "Düzen şöyle olmalı:\n1) 1–2 satırlık özet,\n2) Playlist veya kanal linkleri,\n3) Sosyal medya linkleri,\n4) Uzun videolarda timestamp listesi." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Açıklamada linkleri nereye koymalıyım?" },
+      { "role": "assistant", "content": "Linkleri genelde özetin hemen altına koyuyoruz. Böylece izleyici ilk bakışta sosyal medya ve diğer içeriklerimize ulaşabiliyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video açıklamasında nelerden kaçınmalıyım?" },
+      { "role": "assistant", "content": "Uzun, gereksiz metinlerden ve tekrar eden ifadelerden kaçın. Açıklama kısa, net ve izleyiciye faydalı olmalı." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Açıklamayı SEO için nasıl kullanabilirim?" },
+      { "role": "assistant", "content": "İlk satırlarda anahtar kelimeleri geçir, ardından ilgili linkleri ve timestampleri ekle. Bu hem izleyici hem algoritma için faydalıdır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Uzun videolar için açıklama nasıl olmalı?" },
+      { "role": "assistant", "content": "Uzun videolarda mutlaka timestamp ekle. Ayrıca özet ve linkler daha düzenli, bölümlere ayrılmış olmalı." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa videolarda açıklama yazmaya gerek var mı?" },
+      { "role": "assistant", "content": "Evet, kısa bile olsa açıklama yaz. Tek satırlık bir özet ve sosyal medya linkleri yeterli olur." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video açıklamasına örnek verebilir misin?" },
+      { "role": "assistant", "content": "Tabii: 'Bu videoda yeni yapay zekâ kütüphanesini deniyoruz. Daha fazlası için Instagram ve TikTok’tan bizi takip et! Zaman Çizelgesi: 00:00 Giriş, 02:15 Deney, 08:45 Sonuç'." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Timestampları nasıl yazmalıyım?" },
+      { "role": "assistant", "content": "Dakika ve saniyeyi şu şekilde yaz: 00:00 Giriş, 01:12 Konu 1, 04:50 Konu 2, 07:00 Kapanış." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoya timestamp eklerken format ne olmalı?" },
+      { "role": "assistant", "content": "Dakika:saniye biçiminde yaz. Örn: 00:00 Giriş, 02:30 Deney, 05:10 Sonuç." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Timestampleri nerede paylaşmalıyım?" },
+      { "role": "assistant", "content": "YouTube açıklamasında alt alta yaz. Örn:\n00:00 Başlangıç\n01:45 Konu 1\n04:20 Konu 2\n07:30 Kapanış" }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Dakika ve saniyeyi nasıl göstermeliyim?" },
+      { "role": "assistant", "content": "Her zaman iki haneli format kullan: 00:00, 01:05, 12:45 gibi. Böylece YouTube otomatik olarak bölümlere ayırır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Timestamplar için örnek şablon verebilir misin?" },
+      { "role": "assistant", "content": "Tabii: \n00:00 Giriş\n01:10 Araç Tanıtımı\n03:25 Deney\n08:40 Sonuç ve Değerlendirme" }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Timestamp eklerken nelere dikkat etmeliyim?" },
+      { "role": "assistant", "content": "Her bölüm için anlamlı başlık yaz. Örn: 00:00 Giriş, 01:45 Yeni Özellik, 05:30 Test Aşaması." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube videolarında timestampler nasıl çalışıyor?" },
+      { "role": "assistant", "content": "Doğru formatta (00:00) yazıldığında YouTube açıklamadan otomatik bölüm oluşturur. İzleyici doğrudan istediği dakikaya gidebilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Timestampları açıklamanın başına mı sona mı yazmalıyım?" },
+      { "role": "assistant", "content": "Genellikle açıklamanın orta veya alt kısmına koyuyoruz. Önce özet ve linkler, sonra timestamp listesi." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Timestampleri kısa videolara da eklemeli miyim?" },
+      { "role": "assistant", "content": "Hayır, genelde 10 dakikadan kısa videolarda timestamp gereksiz. Daha uzun videolarda mutlaka kullan." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Timestamplarda emojiler veya süslemeler kullanılabilir mi?" },
+      { "role": "assistant", "content": "Hayır, basit tutmak en iyisi. Dakika:saniye ve kısa başlık yeterlidir. Örn: 02:15 Yeni Araç." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoları editlerken nelere dikkat etmeliyim?" },
+      { "role": "assistant", "content": "Gereksiz duraksamaları kes, ses seviyesini dengele, altyazı ekle ve görselleri netleştir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video düzenlerken hangi noktalara özen göstermeliyim?" },
+      { "role": "assistant", "content": "Akışı bozan boşlukları sil, sesleri normalize et, altyazı ekle, görsel kontrastı ve netliği artır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube için video editlerken en önemli şeyler neler?" },
+      { "role": "assistant", "content": "İzleyicinin dikkatini dağıtan kısımları kırp, ses ve görüntü kalitesini dengede tut, gerektiğinde altyazı ekle." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Edit sırasında hangi hatalardan kaçınmalıyım?" },
+      { "role": "assistant", "content": "Uzun sessizlikler, ses dengesizliği ve bulanık görüntülerden kaçın. Akıcı ve net bir içerik üret." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoları düzenlerken genel kural nedir?" },
+      { "role": "assistant", "content": "Netlik, akıcılık ve anlaşılır ses. Gereksiz kısımları çıkar, ses-görüntü senkronuna dikkat et." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video montajında önceliklerim neler olmalı?" },
+      { "role": "assistant", "content": "Öncelik sırası: 1) Akıcı kurgu, 2) Dengeli ses, 3) Net görseller, 4) İzleyiciye kolay takip sağlayan altyazı." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Edit yaparken sesi nasıl ayarlamalıyım?" },
+      { "role": "assistant", "content": "Ses seviyesini normalize et, arka plan gürültüsünü azalt ve konuşmaları net duyulacak şekilde dengele." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video düzenlerken görsel kaliteyi nasıl iyileştirebilirim?" },
+      { "role": "assistant", "content": "Renk düzenlemesi yap, kontrastı ayarla, bulanık sahneleri kes. Gerektiğinde ek görseller ekleyerek videoyu zenginleştir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Edit sürecinde izleyici deneyimini artırmak için ne yapmalıyım?" },
+      { "role": "assistant", "content": "Videoyu tempolu tut, uzun duraksamaları çıkar, önemli noktaları görsel efektlerle vurgula ve altyazı ekle." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanal için video editlerken standartlarımız neler?" },
+      { "role": "assistant", "content": "Standartlar: kısa ve akıcı kurgu, dengeli ses, net görüntü, altyazı desteği ve profesyonel bir bütünlük." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Uzun içerikten kısa içerik nasıl çıkarılır?" },
+      { "role": "assistant", "content": "Uzun videodan en dikkat çekici 30–60 saniyelik bölümü seç. Dikey formata çevirip Shorts, Reels ve TikTok’ta paylaş." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Uzun bir videodan kısa klipleri nasıl hazırlayabilirim?" },
+      { "role": "assistant", "content": "Videodaki en vurucu anı bul, 1 dakikayı geçmeyecek şekilde kes. Dikey formatta düzenleyip kısa içerik olarak paylaş." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Uzun videoları Shorts ve Reels için nasıl kısaltıyoruz?" },
+      { "role": "assistant", "content": "İzleyiciyi hemen yakalayacak 30–60 saniyelik sahneyi seç. Görseli dikey yap, gerekirse altyazı ekle." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa içerik çıkarmak için hangi bölümleri seçmeliyim?" },
+      { "role": "assistant", "content": "En ilgi çekici, dikkat çeken veya izleyiciye değer katan bölümü seç. Genellikle 45 saniyeyi geçmemeli." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Uzun bir yayını kısa versiyona dönüştürmenin püf noktaları neler?" },
+      { "role": "assistant", "content": "Önce vurucu anı bul, kurguyu sıkı tut, dikey formata çevir ve sosyal medya için optimize et." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Uzun videodan kısa video çıkarırken süre ne olmalı?" },
+      { "role": "assistant", "content": "Genellikle 30–60 saniye arası en ideal süredir. Daha uzun olursa izleyici kaybı yaşanabilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa içerik hazırlarken videoyu nasıl formatlamalıyım?" },
+      { "role": "assistant", "content": "Videoyu dikey 9:16 formatına çevir. Yazı ve altyazıları ekranda okunur şekilde konumlandır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Uzun içerikten kısa kesit alırken nelere dikkat etmeliyim?" },
+      { "role": "assistant", "content": "Kesit, başlı başına anlamlı olmalı. Giriş, vurgu ve sonuç içeren bir sahne seçersen daha etkili olur." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Shorts için uzun videolardan hangi kısımları almalıyım?" },
+      { "role": "assistant", "content": "İzleyicide merak uyandıran ve paylaşılabilir anları seç. Örn: şaşırtıcı bilgi, esprili an veya güçlü bir mesaj." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Uzun içerikten kısa içerik üretirken altyazı eklemeli miyim?" },
+      { "role": "assistant", "content": "Evet, mutlaka altyazı ekle. Çoğu kullanıcı videoyu sessiz izlediği için altyazı etkileşimi artırır." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoları hangi saatlerde paylaşmalıyım?" },
+      { "role": "assistant", "content": "Ana içerikleri 19:00’da, kısa içerikleri gün içinde 12:00–17:00 arasında paylaş." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube videolarını yüklemek için en uygun saat nedir?" },
+      { "role": "assistant", "content": "Uzun içerikleri akşam 19:00 civarında yüklemek en uygunudur. Kısa içerikler ise öğle ile akşamüstü arasında paylaşılmalı." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa içerikleri günün hangi saatlerinde paylaşmalıyım?" },
+      { "role": "assistant", "content": "Shorts, Reels ve TikTok videolarını 12:00–17:00 aralığında paylaş. Bu saatlerde etkileşim daha yüksektir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Ana içerikler için paylaşım zamanı ne olmalı?" },
+      { "role": "assistant", "content": "Ana videoları genellikle akşam 19:00’da yayınla. İzleyici kitlesi bu saatlerde daha aktif oluyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoları sabah mı akşam mı yüklemek daha iyi?" },
+      { "role": "assistant", "content": "Uzun içerikler için akşam saatleri (özellikle 19:00) daha iyidir. Kısa içerikler ise öğlen–akşamüstü arası daha fazla izlenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Paylaşım saatlerini nasıl planlamalıyım?" },
+      { "role": "assistant", "content": "Plan: Ana videolar akşam 19:00’da, kısa içerikler ise gün içinde 12:00–17:00 arasında. Böylece her tür içerik doğru zamanda izleyiciye ulaşır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoları hafta içi mi hafta sonu mu paylaşmalıyım?" },
+      { "role": "assistant", "content": "Hafta içi akşam 19:00, hafta sonu ise 12:00–17:00 arası idealdir. Özellikle pazar akşamı uzun videolar iyi performans gösterir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube algoritması için hangi saatlerde paylaşım yapmalıyım?" },
+      { "role": "assistant", "content": "Algoritma açısından, kitlenin en aktif olduğu saatler önemlidir. Genel kural: ana içerik 19:00, kısa içerik 12:00–17:00." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoları yükleme zamanlaması neden önemli?" },
+      { "role": "assistant", "content": "Doğru zamanda yüklemek daha fazla izlenme getirir. Akşam 19:00 uzun videolar için, öğle–akşamüstü arası kısa videolar için en ideal zaman." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalımız için standart paylaşım saatleri var mı?" },
+      { "role": "assistant", "content": "Evet. Uzun videolar 19:00’da, kısa içerikler ise 12:00–17:00 arasında paylaşılmalı." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa içerikleri nerelerde paylaşıyoruz?" },
+      { "role": "assistant", "content": "Kısa içerikleri YouTube Shorts, Instagram Reels ve TikTok’a yüklüyoruz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Shorts tarzı videoları hangi platformlara eklemeliyim?" },
+      { "role": "assistant", "content": "Bu videoları YouTube Shorts, Instagram Reels ve TikTok’ta paylaşmalısın." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa videoları yüklediğimiz sosyal medya kanalları hangileri?" },
+      { "role": "assistant", "content": "Kısa videoları üç yerde paylaşıyoruz: YouTube Shorts, Instagram Reels ve TikTok." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Reels tarzı videoları hangi mecralarda paylaşmam gerekiyor?" },
+      { "role": "assistant", "content": "Bu içerikleri YouTube Shorts, Instagram Reels ve TikTok’ta paylaşman gerekiyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa içeriklerin yayınlandığı platformlar neler?" },
+      { "role": "assistant", "content": "Kısa içerikler YouTube Shorts, Instagram Reels ve TikTok’ta yayınlanıyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "TikTok’a hangi içerikleri yüklüyoruz?" },
+      { "role": "assistant", "content": "TikTok’a genelde kısa içerikleri yüklüyoruz. Aynı içerikleri YouTube Shorts ve Instagram Reels’te de paylaşıyoruz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalda kısa videoları sadece YouTube’a mı koyuyoruz?" },
+      { "role": "assistant", "content": "Hayır, kısa videoları YouTube Shorts’un yanında Instagram Reels ve TikTok’a da koyuyoruz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Shorts ve Reels gibi kısa videoları nereye yüklüyoruz?" },
+      { "role": "assistant", "content": "Onları üç yere yüklüyoruz: YouTube Shorts, Instagram Reels ve TikTok." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa içeriklerin hedef platformlarını tekrar hatırlatır mısın?" },
+      { "role": "assistant", "content": "Tabii. Kısa içerikler YouTube Shorts, Instagram Reels ve TikTok’a yükleniyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa videoları paylaşmam gereken sosyal ağlar hangileri?" },
+      { "role": "assistant", "content": "Kısa videoları YouTube Shorts, Instagram Reels ve TikTok’ta paylaşmalısın." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yorumlara nasıl cevap vermeliyim?" },
+      { "role": "assistant", "content": "Samimi ve kısa yanıt ver. Örn: 'Teşekkürler 🙏', 'Evet, sonraki videoda bu konuya değineceğiz.'" }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "İzleyicilerin yorumlarına nasıl yaklaşmalıyım?" },
+      { "role": "assistant", "content": "Kısa, samimi ve pozitif cevaplar ver. Teşekkür et, merak ettikleri noktaları kısaca yanıtla." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yorumlara cevap verirken resmi mi olmalıyım samimi mi?" },
+      { "role": "assistant", "content": "Resmi değil, samimi ol. İzleyiciyle arkadaşça bir dil kullan. Örn: 'Harika bir fikir 👍'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yorumlara örnek cevap verir misin?" },
+      { "role": "assistant", "content": "Tabii: 'Çok teşekkürler 🙌', 'Evet, bunu deneyeceğiz', 'Güzel bir öneri, not aldık 👍'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "İzleyicilerin sorularına nasıl dönüş yapmalıyım?" },
+      { "role": "assistant", "content": "Kısa ve net cevap ver. Eğer video planında varsa 'Bu konuya yakında değineceğiz' diyebilirsin." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Olumsuz yorumlara nasıl cevap vermeliyim?" },
+      { "role": "assistant", "content": "Kibar ve sakin yanıt ver. Tartışmaya girmekten kaçın. Gerekirse sadece teşekkür et." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yorum cevaplarının uzunluğu nasıl olmalı?" },
+      { "role": "assistant", "content": "Genellikle 1–2 cümle yeterli. Fazla uzun olursa izleyici okumaz, fazla kısa olursa samimi gelmez." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yorumlara emojili cevap vermek doğru mu?" },
+      { "role": "assistant", "content": "Evet, emojiler samimiyet katar. Örn: 'Harika yorum 🙏😊'." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa içeriklerin hedef platformlarını tekrar hatırlatır mısın?" },
+      { "role": "assistant", "content": "Mümkün olduğunca cevap ver. Ama çok fazla yorum varsa en azından beğeni bırak veya bazılarına cevap yaz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yorumlara cevap verirken dikkat etmem gereken şeyler neler?" },
+      { "role": "assistant", "content": "Kibar ol, samimi yaz, asla saldırgan bir dil kullanma. İzleyiciyle pozitif iletişim kur." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Olumsuz yorumlara nasıl yaklaşmalıyım?" },
+      { "role": "assistant", "content": "Sakin ve yapıcı ol. Örn: 'Görüşünü paylaştığın için teşekkürler, sonraki içerikte dikkate alacağız.'" }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kötü niyetli yorumlara nasıl tepki vermeliyim?" },
+      { "role": "assistant", "content": "Kibar ve kısa yanıt ver. Gereksiz tartışmaya girme. 'Görüşünüzü not ettik 🙏' gibi basit bir cevap yeterli olur." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Olumsuz eleştiriler karşısında ne yapmalıyım?" },
+      { "role": "assistant", "content": "Yapıcı eleştirileri dikkate al, saldırgan olanlara ise nazik bir teşekkür bırak. Tartışmaya girmekten kaçın." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kötü yorum yazan izleyicilere cevap vermeli miyim?" },
+      { "role": "assistant", "content": "Evet ama kısa ve sakin olmalı. 'Düşünceni paylaştığın için teşekkürler' tarzı cevaplar yeterli olur." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Negatif yorumlarla nasıl başa çıkılır?" },
+      { "role": "assistant", "content": "Kendini savunmaya çalışmak yerine olumlu kal. Faydalı geri bildirim varsa uygula, aksi halde sadece teşekkür et." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Hakaret içeren yorumlara nasıl cevap vermeliyim?" },
+      { "role": "assistant", "content": "Asla tartışmaya girme. Kibarca teşekkür et veya hiç cevap verme. Gerekirse yorumu raporla." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Olumsuz yorumlara örnek yanıt verebilir misin?" },
+      { "role": "assistant", "content": "Tabii: 'Fikrini paylaştığın için teşekkürler 🙏, sonraki videolarda bunu göz önünde bulunduracağız.' " }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Olumsuz yorumlarda neye dikkat etmeliyim?" },
+      { "role": "assistant", "content": "Savunmacı olmaktan kaçın. İzleyiciye değer verildiğini hissettir, sakin ve pozitif kal." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Negatif yorumlara cevap verirken nasıl bir ton kullanmalıyım?" },
+      { "role": "assistant", "content": "Her zaman sakin, nazik ve yapıcı bir ton kullan. Asla sert veya küçümseyici yazma." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Olumsuz yorumlar için standart bir yaklaşımımız var mı?" },
+      { "role": "assistant", "content": "Evet. Standart yaklaşım: kısa, kibar, yapıcı. Örn: 'Geri bildirimin için teşekkürler, değerlendireceğiz.' " }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Spotify’a hangi içerikler yükleniyor?" },
+      { "role": "assistant", "content": "Sadece Kodla Gündem içerikleri ses formatına dönüştürülerek Spotify’a yüklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Hangi videoları Spotify’a aktarıyoruz?" },
+      { "role": "assistant", "content": "Yalnızca Kodla Gündem videolarını ses dosyasına çevirip Spotify’a yüklüyoruz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Spotify hesabına yüklediğimiz içerikler neler?" },
+      { "role": "assistant", "content": "Spotify’a yalnızca Kodla Gündem bölümlerinin ses versiyonlarını yüklüyoruz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast olarak hangi içerikleri paylaşıyoruz?" },
+      { "role": "assistant", "content": "Podcast olarak sadece Kodla Gündem içeriklerini paylaşıyoruz. Video kaydı ses formatına dönüştürülüyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Spotify’a yüklenen içerik türü nedir?" },
+      { "role": "assistant", "content": "Spotify’a yüklediğimiz içerikler sadece Kodla Gündem videolarının ses dosyalarıdır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalımızdan hangi içerikler Spotify’a gidiyor?" },
+      { "role": "assistant", "content": "Spotify’a sadece Kodla Gündem içerikleri aktarılıyor, diğerleri yüklenmiyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Spotify için özel olarak hangi içerikleri hazırlıyoruz?" },
+      { "role": "assistant", "content": "Spotify için sadece Kodla Gündem videolarını ses formatında düzenliyoruz." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Spotify’a yüklediğimiz içerikler sadece podcast mi?" },
+      { "role": "assistant", "content": "Evet, Spotify’a yüklenen tek içerik türü Kodla Gündem podcastleridir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Spotify hesabında hangi serimiz yer alıyor?" },
+      { "role": "assistant", "content": "Spotify’da sadece Kodla Gündem serisinin ses versiyonları bulunuyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Spotify’a yüklenen içeriklerin kaynağı ne?" },
+      { "role": "assistant", "content": "Kaynak, Kodla Gündem videoları. Bu videolar ses formatına çevrilerek Spotify’a ekleniyor." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast açıklamasını nasıl yazmalıyım?" },
+      { "role": "assistant", "content": "Kısa bir özet yaz ve sosyal medya linklerini ekle." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast için açıklama kısmında neler olmalı?" },
+      { "role": "assistant", "content": "Bölümün kısa bir özeti, varsa konu başlıkları ve sosyal medya linkleri mutlaka yer almalı." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Spotify’a yükleyeceğim podcast’in açıklamasını nasıl düzenlemeliyim?" },
+      { "role": "assistant", "content": "Açıklama kısa, net ve bilgilendirici olsun. Sonuna sosyal medya bağlantılarını ekle." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast açıklamasında uzun bir metin mi yazmalıyım kısa mı?" },
+      { "role": "assistant", "content": "Kısa ve öz tut. Dinleyiciyi bilgilendirecek 2–3 cümlelik özet yeterli olur." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast açıklamasına örnek verebilir misin?" },
+      { "role": "assistant", "content": "Örn: 'Bu bölümde yapay zekâ dünyasındaki son gelişmeleri konuşuyoruz. Bizi Instagram ve YouTube’da takip etmeyi unutmayın!'" }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast bölümü için açıklama yazarken nelere dikkat etmeliyim?" },
+      { "role": "assistant", "content": "Özet net olsun, gereksiz detaylardan kaçın. Dinleyiciyi abone olmaya ve sosyal medya hesaplarına yönlendir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast açıklamasına hashtag eklemeli miyim?" },
+      { "role": "assistant", "content": "Hashtag şart değil ama birkaç ilgili anahtar kelime açıklamanın içinde yer alabilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast açıklaması dinleyiciye ne sağlamalı?" },
+      { "role": "assistant", "content": "Dinleyiciye bölümün içeriğini hızlıca anlatmalı ve onları sosyal medya hesaplarına yönlendirmeli." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast açıklamasını yazarken format nasıl olmalı?" },
+      { "role": "assistant", "content": "İlk satırda özet, ardından konu başlıkları (varsa), en sonda sosyal medya linkleri olacak şekilde düzenle." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Podcast açıklamasında dinleyiciye nasıl hitap etmeliyim?" },
+      { "role": "assistant", "content": "Samimi ve davetkar bir dil kullan. Örn: 'Bu bölümde bizimle keşfetmeye hazır mısınız?'" }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalda video paylaşım süreci nasıl işliyor?" },
+      { "role": "assistant", "content": "Video hazırlanır, editlenir, başlık ve thumbnail eklenir, açıklama ve timestamp yazılır, playlist seçilir, zamanlanır ve yayın sonrası yorumlar takip edilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Bir videoyu yayına almadan önce hangi adımlardan geçiyoruz?" },
+      { "role": "assistant", "content": "Önce video hazırlanır ve editlenir. Ardından başlık, açıklama, thumbnail ve timestamp eklenir. Playlist seçilir, yayın saati ayarlanır ve sonrasında yorumlar takip edilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "YouTube kanalında video yükleme sürecini anlatır mısın?" },
+      { "role": "assistant", "content": "Video çekildikten sonra montaj yapılır. Başlık ve thumbnail hazırlanır, açıklama kısmı doldurulur, timestamp eklenir, uygun playlist seçilir, yayın planlanır ve sonrasında yorumlara yanıt verilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoları paylaşmadan önce hangi hazırlıkları yapıyoruz?" },
+      { "role": "assistant", "content": "Önce kurgusu yapılır, sonra başlık ve thumbnail hazırlanır. Açıklama yazılır, timestamp eklenir, playlist belirlenir, yayın planlanır ve izleyici yorumları takip edilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalda video yükleme adımları nelerdir?" },
+      { "role": "assistant", "content": "Adımlar: 1) Video hazırlığı ve edit, 2) Başlık ve thumbnail, 3) Açıklama + timestamp, 4) Playlist seçimi, 5) Yayın zamanı ayarı, 6) Yayın sonrası yorum takibi." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video yayınlama sürecini özetler misin?" },
+      { "role": "assistant", "content": "Video hazırlanır ve editlenir. Sonrasında başlık, açıklama ve thumbnail eklenir. Playlist belirlenir, yayın saati planlanır ve yayın sonrası etkileşimler takip edilir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Bir videonun hazırlanıp paylaşılması hangi sırayla oluyor?" },
+      { "role": "assistant", "content": "Önce video çekilir ve editlenir. Daha sonra başlık, açıklama, thumbnail ve timestamp eklenir. Playlist seçilip zamanlama yapılır ve yayın sonrası yorumlar incelenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Video yükleme sürecinde hangi aşamalar var?" },
+      { "role": "assistant", "content": "Video montajı yapılır, başlık ve thumbnail hazırlanır. Açıklama ve timestamp yazılır, playlist seçilir, yayın planlanır ve sonrasında yorumlara geri dönüş yapılır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalda video hazırlama ve paylaşma süreci nedir?" },
+      { "role": "assistant", "content": "Hazırlık → edit → başlık + thumbnail → açıklama + timestamp → playlist seçimi → yayınlama → yorum takibi şeklinde ilerler." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Videoları paylaşmadan önce hangi standart adımları izliyoruz?" },
+      { "role": "assistant", "content": "Standart adımlar: video edit, başlık & thumbnail ekleme, açıklama & timestamp yazma, playlist seçme, yayını zamanlama ve yorumları takip etme." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalın genel formatını özetler misin?" },
+      { "role": "assistant", "content": "Kodla kanalı yazılım, yapay zekâ ve teknoloji içerikleri üretir. 5 playlist vardır. Uzun videolardan kısa içerikler türetilir, gündem ise podcast olarak da yayınlanır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kısa içeriklerin hedef platformlarını tekrar hatırlatır mısın?" },
+      { "role": "assistant", "content": "Kanal yazılım, yapay zekâ ve teknoloji odaklı içerikler üretir. 5 farklı playlist vardır, uzun içeriklerden kısa videolar üretilir ve Kodla Gündem aynı zamanda podcast olarak paylaşılır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalın işleyişi nasıl özetlenebilir?" },
+      { "role": "assistant", "content": "Kanalda yazılım ve teknoloji konuları işlenir. Videolar 5 playlist’e ayrılır, uzun içeriklerden kısa formatlı videolar hazırlanır ve gündem içerikleri Spotify’da podcast olarak da yayınlanır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla kanalında nasıl bir format kullanılıyor?" },
+      { "role": "assistant", "content": "Kodla kanalı yazılım ve yapay zekâ üzerine içerikler hazırlar. Tüm içerikler 5 playlist altında toplanır, uzun videolardan kısa versiyonlar üretilir, gündem bölümleri ise podcast’e dönüştürülür." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalın içerik tarzını kısaca özetler misin?" },
+      { "role": "assistant", "content": "Kodla kanalı yazılım, teknoloji ve yapay zekâ üzerine videolar üretir. İçerikler 5 playlist halinde sunulur. Uzun içeriklerden kısa videolar hazırlanır, gündem içerikleri podcast olarak Spotify’a yüklenir." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalın genel işleyişini özetle?" },
+      { "role": "assistant", "content": "Kodla kanalı 5 playlist altında yazılım ve teknoloji videoları paylaşır. Uzun videolardan kısa kesitler üretilir. Kodla Gündem içerikleri ayrıca podcast olarak da yayınlanır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla kanalının yayın formatı nedir?" },
+      { "role": "assistant", "content": "Yazılım ve teknoloji içerikleri 5 ayrı playlist’e dağıtılır. Uzun videolardan kısa versiyonlar üretilir. Kodla Gündem hem video hem podcast formatında paylaşılır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla kanalını tanımayan birine nasıl özetlersin?" },
+      { "role": "assistant", "content": "Kodla, yazılım ve yapay zekâ konularında içerikler üreten bir kanaldır. 5 playlist’e ayrılmış içerikler vardır. Uzun videolardan kısa kesitler hazırlanır, Kodla Gündem ise podcast olarak Spotify’da da yer alır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalın özet formatı nedir?" },
+      { "role": "assistant", "content": "Kanalda yazılım ve teknoloji içerikleri üretilir. 5 playlist bulunur. Uzun videolardan kısa içerikler türetilir, Kodla Gündem bölümleri podcast olarak yayınlanır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalın genel formatını anlatır mısın?" },
+      { "role": "assistant", "content": "Kodla kanalı 5 playlist altında yazılım, yapay zekâ ve teknoloji içerikleri paylaşır. Uzun videolardan kısa içerikler oluşturulur, gündem programı ise podcast olarak Spotify’a yüklenir." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalın sosyal medya hesapları hangileri?" },
+      { "role": "assistant", "content": "YouTube (ana içerik), Instagram (Reels), TikTok (kısa videolar) ve Spotify (podcast)." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla hangi platformlarda içerik paylaşıyor?" },
+      { "role": "assistant", "content": "İçerikler YouTube, Instagram, TikTok ve Spotify üzerinden paylaşılıyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalın aktif olduğu sosyal medya kanallarını söyler misin?" },
+      { "role": "assistant", "content": "Kanal YouTube’da uzun videolar, Instagram ve TikTok’ta kısa içerikler, Spotify’da ise podcast yayınlıyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla içeriklerini nerelerde yayınlıyoruz?" },
+      { "role": "assistant", "content": "Kodla içerikleri YouTube, Instagram, TikTok ve Spotify’da yayınlanıyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla’nın sosyal medya hesaplarını sayar mısın?" },
+      { "role": "assistant", "content": "Tabii, Kodla YouTube, Instagram, TikTok ve Spotify hesaplarına sahip." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla hangi sosyal ağlarda yer alıyor?" },
+      { "role": "assistant", "content": "Kodla, YouTube’da ana içerik, Instagram’da Reels, TikTok’ta kısa videolar ve Spotify’da podcast paylaşıyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla kanalını hangi platformlardan takip edebilirim?" },
+      { "role": "assistant", "content": "Kodla’yı YouTube, Instagram, TikTok ve Spotify üzerinden takip edebilirsin." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla’nın içerikleri hangi mecralarda bulunuyor?" },
+      { "role": "assistant", "content": "Kodla’nın içerikleri YouTube, Instagram, TikTok ve Spotify’da yer alıyor." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanal hangi sosyal medya platformlarında aktif?" },
+      { "role": "assistant", "content": "Kanal YouTube, Instagram, TikTok ve Spotify platformlarında aktif." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla’nın yayın yaptığı sosyal medya platformlarını sıralar mısın?" },
+      { "role": "assistant", "content": "Evet, Kodla YouTube, Instagram, TikTok ve Spotify’da yayın yapıyor." }
+    ]
+  },
+{
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yeni bir çalışan olarak nereden başlamalıyım?" },
+      { "role": "assistant", "content": "Önce playlist yapısını öğren. Sonra örnek bir video için başlık, thumbnail ve açıklama hazırla. Küçük bir yükleme denemesi yap." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalda yeni çalışmaya başladım, ilk olarak ne yapmalıyım?" },
+      { "role": "assistant", "content": "İlk olarak 5 playlist’in mantığını öğren. Ardından deneme amaçlı bir video için başlık ve açıklama yazıp yükleme sürecini gör." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalda işe başladığımda ilk öğrenmem gereken şey ne?" },
+      { "role": "assistant", "content": "Öncelikle hangi içerik hangi playlist’e giriyor bunu öğren. Sonra küçük bir deneme videosuyla başlık, thumbnail ve açıklama hazırlamayı uygula." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yeni başlayan biri için ilk adım nedir?" },
+      { "role": "assistant", "content": "Önce kanal formatını ve playlistleri tanı. Ardından basit bir video üzerinde başlık ve açıklama yazmayı dene." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalda işe giren biri ilk hangi süreci öğrenmeli?" },
+      { "role": "assistant", "content": "İlk süreç: playlist düzeni. Daha sonra başlık, thumbnail ve açıklama hazırlama pratiği yaparak işe başlamalı." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yeni çalışmaya başladım, adaptasyon için neler yapmalıyım?" },
+      { "role": "assistant", "content": "Öncelikle kanalın içerik türlerini öğren. Küçük deneme videolarıyla başlık ve açıklama hazırlamaya pratik yap." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "İşe yeni giren birinin ilk görevi ne olmalı?" },
+      { "role": "assistant", "content": "İlk görev, playlist mantığını öğrenmek ve örnek bir video üzerinde başlık, açıklama ve thumbnail denemesi yapmaktır." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kanalda işe başlayan biri nasıl eğitim almalı?" },
+      { "role": "assistant", "content": "Playlist düzeniyle başla. Sonra bir deneme videosu seç, başlık ve açıklama yaz. Küçük adımlarla sürece alış." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Yeni çalışmaya başlayan birine ne önerirsin?" },
+      { "role": "assistant", "content": "Önce kanalın formatını öğren. Sonrasında örnek bir video için başlık ve thumbnail hazırlayıp yükleme pratiği yapmasını tavsiye ederim." }
+    ]
+  },
+  {
+    "conversations": [
+      { "role": "system", "content": "Sen Kodla kanalında çalışan bir içerik yöneticisi asistansın." },
+      { "role": "user", "content": "Kodla kanalında yeniysen işe nereden başlamak gerekir?" },
+      { "role": "assistant", "content": "Playlist yapısını öğrenerek başla. Sonra başlık, açıklama ve thumbnail hazırlayarak deneme yüklemeleri yap." }
+    ]
+  }
+]
