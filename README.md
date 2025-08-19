@@ -2,6 +2,8 @@
 
 Bu proje, **Gemma 3 - 270M** küçük dil modeli üzerinde **Kodla kanalına özel görevleri yerine getirebilen** bir yapay zeka modelini fine-tuning (ince ayar) yöntemiyle eğitmek amacıyla hazırlanmıştır.
 
+Colab Notebook: https://colab.research.google.com/drive/1whUCRkSxqPpc_8PLgPLRwfjInv5tV6Zs?usp=sharing
+
 ---
 
 ## 📌 Projenin Amacı
